@@ -1,0 +1,19 @@
+.paragraphs {
+    background-color: rgb(210, 159, 211);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bluz {
+    color: rgb(56, 56, 242);
+    font-size: 36px;
+}
+
+.paragraphs.para2 {
+    font-size: 24px;
+}
+
+#crust {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: rgb(120, 203, 120);
+}
